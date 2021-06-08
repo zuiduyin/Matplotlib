@@ -1,2 +1,3 @@
 # Matplotlib
-matplotlib绘图，使用basemap绘制地图
+* Matplotlib绘图
+* 使用basemap绘制中国地图
